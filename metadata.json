@@ -1,0 +1,6 @@
+{
+  "name": "Mora-Grafic's Studio",
+  "description": "Plataforma digital premium para Mora-Grafic's Studio, con portafolio cinematográfico indexable, CRM inteligente, generador de imágenes y prospección comercial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
