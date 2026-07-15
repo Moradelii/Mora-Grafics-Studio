@@ -38,8 +38,8 @@ export const translations: Record<string, TranslationSet> = {
     resultsMetric3Lbl: "Average Conversion Uplift",
 
     aboutTitle: "About US",
-    aboutText1: "Mora-Grafic's Studio, founded and led by César Aníbal Moradel Fonseca, is a world-class boutique creative studio dedicated to redefining visual brand authority for ambitious businesses in the USA, Canada, and Honduras.",
-    aboutText2: "We bypass generic layouts. Our strategy blends cinematic art direction with ultra-fast modern code to build unforgettable brands, high-converting printed materials, and fast web portfolios that turn traffic into loyal clients.",
+    aboutText1: "Mora-Grafic's Studio, founded and led by César Aníbal Moradel Fonseca, is a world-class creative studio dedicated to redefining visual brand authority for ambitious businesses in the USA.",
+    aboutText2: "We bypass generic layouts. Our strategy blends art direction with ultra-fast modern code to build unforgettable brands, high-converting printed materials, and fast web portfolios that turn traffic into loyal clients.",
     aboutFounderTitle: "Creative Director & Tech Founder",
 
     testimonialsTitle: "Satisfied Clients",
